@@ -25,7 +25,7 @@
 <a href="https://twitter.com/dherajbhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dherajbhandari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/digitaldk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="digitaldk" height="30" width="40" /></a>
 <a href="https://medium.com/@digitaldk-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@digitaldk-in" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/uchxht9phik0rr0izdohndsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uchxht9phik0rr0izdohndsg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UChXHt9pHik0rR0iZDOHNdsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uchxht9phik0rr0izdohndsg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/dheeraj-bhandari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dheeraj-bhandari/" height="30" width="40" /></a>
 </p>
 
