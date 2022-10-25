@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [digitaldk.in](digitaldk.in)
 
-- 💬 Ask me about **JAVA & <MERN STACK>**
+- 💬 Ask me about **DSA & Front End**
 
 - 📫 How to reach me **https://www.linkedin.com/in/digitaldk/**
 
