@@ -7,7 +7,7 @@
 - 🔭 Learning and Sharing Knowledge on [My YouTube Channel.Solving LeetCode,GFG problem and Sharing My Project.](https://www.youtube.com/channel/UChXHt9pHik0rR0iZDOHNdsg)
 
 - 🌱 Doing **Full Stack Development**
-- 
+
 - 👩‍💻 Solved **300+ Probelms on Leetcode**
 
 - 📝 Writing articles on in Free Time [digitaldk.in](digitaldk.in)
