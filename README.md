@@ -8,7 +8,7 @@
 
 - 🌱 Doing **Full Stack Development**
 
-- 👩‍💻 Solved **300+ Probelms on Leetcode**
+- 👩‍💻 Solved **300+ Problems on Leetcode**
 
 - 📝 Writing articles on in Free Time [digitaldk.in](digitaldk.in)
 
