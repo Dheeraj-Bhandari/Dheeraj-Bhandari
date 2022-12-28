@@ -2,15 +2,17 @@
 <h1 align="center">Hi 👋, I'm Dheeraj</h1>
 <h3 align="center">A passionate Full Stack Software Developer from India</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif" alt="Dheeraj Coding">
-<p align="left"> <a href="https://twitter.com/dherajbhandari" target="blank"><img src="https://img.shields.io/twitter/follow/dherajbhandari?logo=twitter&style=for-the-badge" alt="dherajbhandari" /></a> </p>
 
-- 🔭 I’m currently working on [My YouTube Channel name Code With Me. I am Solving LeetCode, GFG, and Other Coding Platform Question there.](https://www.youtube.com/channel/UChXHt9pHik0rR0iZDOHNdsg)
 
-- 🌱 I’m currently learning **Data Structure and Algorithm**
+- 🔭 Learning and Sharing Knowledge on [My YouTube Channel.Solving LeetCode,GFG problem and Sharing My Project.](https://www.youtube.com/channel/UChXHt9pHik0rR0iZDOHNdsg)
 
-- 📝 I regularly write articles on [digitaldk.in](digitaldk.in)
+- 🌱 Doing **Full Stack Development**
+- 
+- 👩‍💻 Solved **300+ Probelms on Leetcode**
 
-- 💬 Ask me about **DSA & Front End**
+- 📝 Writing articles on in Free Time [digitaldk.in](digitaldk.in)
+
+- 💬 Ask me about **DSA & Full Stack Development**
 
 - 📫 How to reach me **https://www.linkedin.com/in/digitaldk/**
 
