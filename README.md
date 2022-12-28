@@ -10,7 +10,7 @@
 
 - 👩‍💻 Solved **300+ Problems on Leetcode**
 
-- 📝 Writing articles on in Free Time [digitaldk.in](digitaldk.in)
+- 📝 Writing articles in my Free Times [digitaldk.in](digitaldk.in)
 
 - 💬 Ask me about **DSA & Full Stack Development**
 
