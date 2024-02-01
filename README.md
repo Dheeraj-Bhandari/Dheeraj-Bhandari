@@ -10,9 +10,7 @@
 
 - 👩‍💻 Solved **300+ Problems on Leetcode**
 
-- 📝 Writing articles in my Free Times [digitaldk.in](digitaldk.in)
-
-- 💬 Ask me about **DSA & Full Stack Development**
+- 💬 Ask me about **DSA & Full Stack Development (MERN) & AI ML, huggingface, LLM**
 
 - 📫 How to reach me **https://www.linkedin.com/in/digitaldk/**
 
