@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://www.youtube.com/channel/UChXHt9pHik0rR0iZDOHNdsg)
 <h1 align="center">Hi 👋, I'm Dheeraj</h1>
-<h3 align="center">A passionate Full Stack Software Developer from India</h3>
+<h3 align="center">🚀 Full Stack Engineer | AI/ML Enthusiast | DevOps Pro 🤖 | MERN stack expert | Passionate about tech 🌐 | Lifelong learner 📚 | #TechGeek</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif" alt="Dheeraj Coding">
 
 
