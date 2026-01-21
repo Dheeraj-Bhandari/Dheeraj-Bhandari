@@ -1,37 +1,120 @@
-[![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://www.youtube.com/channel/UChXHt9pHik0rR0iZDOHNdsg)
-<h1 align="center">Hi 👋, I'm Dheeraj</h1>
-<h3 align="center">🚀 Full Stack Engineer | AI/ML Enthusiast | DevOps Pro 🤖 | MERN stack expert | Passionate about tech 🌐 | Lifelong learner 📚 | #TechGeek</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif" alt="Dheeraj Coding">
+<div align="center">
 
+# 👋 Hey, I'm Dheeraj Kumar
 
-- 🔭 Learning and Sharing Knowledge on [My YouTube Channel.Solving LeetCode,GFG problem and Sharing My Project.](https://www.youtube.com/channel/UChXHt9pHik0rR0iZDOHNdsg)
+### Senior Software Engineer | AI/ML Systems Architect
 
-- 🌱 Doing **Full Stack Development**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/digitaldk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://debugwithdheeraj.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@debugwithdheeraj)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:digitaldk.in@gmail.com)
 
-- 👩‍💻 Solved **300+ Problems on Leetcode**
+</div>
 
-- 💬 Ask me about **DSA & Full Stack Development (MERN) & AI ML, huggingface, LLM**
+---
 
-- 📫 How to reach me **https://www.linkedin.com/in/digitaldk/**
+## 🚀 About Me
 
-- ⚡ Fun fact **I think world need more developers like me. Lol**
+I build scalable AI/ML systems and lead engineering teams to ship production-grade software. Currently focused on LLM applications, distributed systems, and developer tools.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+**Recent Highlights:**
+- 🏢 Founded [NeuralTalk AI](https://neuraltalk.ai) - Privacy-first AI customer support (acquired by investors)
+- 👨‍💻 Led engineering at [Neo](https://heyneo.so) - Autonomous ML engineering platform
+- 🎯 Built production systems serving 100+ companies
+- 📚 Share knowledge on [YouTube](https://www.youtube.com/@code_with_me_) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dherajbhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dherajbhandari" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/digitaldk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="digitaldk" height="30" width="40" /></a>
-<a href="https://medium.com/@digitaldk-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@digitaldk-in" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UChXHt9pHik0rR0iZDOHNdsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uchxht9phik0rr0izdohndsg" height="30" width="40" /></a>
+---
 
-</p>
+## 💻 Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeraj-bhandari&show_icons=true&locale=en&layout=compact" alt="dheeraj-bhandari" /></p>
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj-bhandari&" alt="dheeraj-bhandari" /></p>
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+
+**AI/ML**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+**Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
+
+**DevOps & Cloud**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dheeraj-Bhandari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj-Bhandari&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj-Bhandari&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **LeetCode:** 300+ problems solved
+- 🥇 **GeeksforGeeks:** 200+ points
+- 🌟 **GitHub:** 1,500+ contributions annually
+- 🏅 **Google HashCode 2021:** Ranked 4,366th worldwide
+- 🏆 **Amazon:** 2x Top Performer awards
+- 📜 **Certified:** Crio Winter of Doing, IICC Round 2 Qualified
+
+---
+
+## 🎯 What I'm Up To
+
+- 🔨 Building AI-powered developer tools
+- 📝 Writing about system design and ML engineering on [Medium](https://digitaldk-in.medium.com)
+- 🎥 Creating programming tutorials on [YouTube](https://www.youtube.com/@code_with_me_)
+- 🌱 Contributing to open-source AI/ML projects
+- 💡 Exploring LLM fine-tuning and RAG systems
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to interesting conversations about technology, software architecture, or collaboration opportunities!
+
+- 💼 [LinkedIn](https://linkedin.com/in/digitaldk)
+- 🌐 [Portfolio](https://debugwithdheeraj.com)
+- 📧 [Email](mailto:digitaldk.in@gmail.com)
+- 🐦 [Twitter](https://twitter.com/dherajbhandari)
+
+---
+
+<div align="center">
+
+### 💭 _"Code is poetry written for machines to execute and humans to understand"_
+
+![Profile Views](https://komarev.com/ghpvc/?username=Dheeraj-Bhandari&color=blueviolet&style=flat-square)
+
+</div>
