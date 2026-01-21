@@ -15,13 +15,13 @@
 
 ## 🚀 About Me
 
-I build scalable AI/ML systems and lead engineering teams to ship production-grade software. Currently focused on LLM applications, distributed systems, and developer tools.
+I build scalable AI/ML systems and lead engineering teams to ship production-grade software. Specialized in LLM applications, distributed systems, microservices architecture, and cloud infrastructure.
 
 **Recent Highlights:**
-- 🏢 Founded [NeuralTalk AI](https://neuraltalk.ai) - Privacy-first AI customer support (acquired by investors)
+- 🏢 Founded [NeuralTalk AI](https://neuraltalk.ai) - Privacy-first AI customer support platform serving 100+ enterprises
 - 👨‍💻 Led engineering at [Neo](https://heyneo.so) - Autonomous ML engineering platform
-- 🎯 Built production systems serving 100+ companies
-- 📚 Share knowledge on [YouTube](https://www.youtube.com/@code_with_me_) 
+- 🎯 Built and scaled systems processing 50,000+ daily API requests with 99.9% uptime
+- 🚀 Improved ML deployment workflows by 70% through infrastructure automation
 
 ---
 
@@ -79,41 +79,42 @@ I build scalable AI/ML systems and lead engineering teams to ship production-gra
 
 ---
 
-## 🏆 Achievements
+## 🏆 Professional Achievements
 
-- 🥇 **LeetCode:** 300+ problems solved
-- 🥇 **GeeksforGeeks:** 200+ points
-- 🌟 **GitHub:** 1,500+ contributions annually
-- 🏅 **Google HashCode 2021:** Ranked 4,366th worldwide
-- 🏆 **Amazon:** 2x Top Performer awards
-- 📜 **Certified:** Crio Winter of Doing, IICC Round 2 Qualified
+- 🏢 **Startup Founder:** Built and exited AI SaaS platform serving 100+ enterprise clients
+- 👨‍💼 **Engineering Leadership:** Led teams of 5+ engineers, delivered 70% faster deployment cycles
+- 📦 **Open Source:** Published NPM package used by 1,000+ developers ([monsterapi](https://www.npmjs.com/package/monsterapi))
+- 🤝 **Open Source Contributions:** Contributed to Portkey AI Gateway and other developer tools
+- 🏅 **Amazon Recognition:** 2x Top Performer awards for ML data excellence
+- ⚡ **Performance Optimization:** Achieved 6x speed improvement through Redis caching and distributed systems
+- 🎯 **System Reliability:** Architected infrastructure with 99.9% uptime serving 10,000+ concurrent users
 
 ---
 
-## 🎯 What I'm Up To
+## 🎯 What I'm Working On
 
-- 🔨 Building AI-powered developer tools
-- 📝 Writing about system design and ML engineering on [Medium](https://digitaldk-in.medium.com)
-- 🎥 Creating programming tutorials on [YouTube](https://www.youtube.com/@code_with_me_)
-- 🌱 Contributing to open-source AI/ML projects
-- 💡 Exploring LLM fine-tuning and RAG systems
+- 🔨 Building AI-powered automation tools for developers
+- 🌐 Architecting scalable microservices for high-traffic applications
+- 🤖 Exploring LLM fine-tuning, RAG systems, and vector databases
+- 🌱 Contributing to open-source AI/ML infrastructure projects
+- 📚 Sharing knowledge through technical content and tutorials
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always open to interesting conversations about technology, software architecture, or collaboration opportunities!
+I'm always open to interesting conversations about technology, system architecture, AI/ML, or collaboration opportunities.
 
-- 💼 [LinkedIn](https://linkedin.com/in/digitaldk)
-- 🌐 [Portfolio](https://debugwithdheeraj.com)
-- 📧 [Email](mailto:digitaldk.in@gmail.com)
-- 🐦 [Twitter](https://twitter.com/dherajbhandari)
+- 💼 **LinkedIn:** [linkedin.com/in/digitaldk](https://linkedin.com/in/digitaldk)
+- 🌐 **Portfolio:** [debugwithdheeraj.com](https://debugwithdheeraj.com)
+- 📧 **Email:** digitaldk.in@gmail.com
+- 🐦 **Twitter:** [@dherajbhandari](https://twitter.com/dherajbhandari)
 
 ---
 
 <div align="center">
 
-### 💭 _"Code is poetry written for machines to execute and humans to understand"_
+### 💭 _"Building systems that scale, leading teams that ship"_
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dheeraj-Bhandari&color=blueviolet&style=flat-square)
 
