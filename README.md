@@ -19,9 +19,9 @@ I build scalable AI/ML systems and lead engineering teams to ship production-gra
 
 **Recent Highlights:**
 - 🏢 Founded [NeuralTalk AI](https://neuraltalk.ai) - Privacy-first AI customer support platform serving 100+ enterprises
-- 👨‍💻 Led engineering at [Neo](https://heyneo.so) - Autonomous ML engineering platform
-- 🎯 Built and scaled systems processing 50,000+ daily API requests with 99.9% uptime
-- 🚀 Improved ML deployment workflows by 70% through infrastructure automation
+- 👨‍💻 Engineering at [Neo](https://heyneo.so) - Autonomous ML engineering platform
+- 🎯 Built and scaled systems processing Thousands of daily API requests with 99.9% uptime
+- 🚀 Improved ML deployment workflows through infrastructure automation
 
 ---
 
